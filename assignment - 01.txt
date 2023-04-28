@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Derek's Webpage</title>
+</head>
+<body>
+    <h1>My First HTML Page</h1>
+    <p>Hi, my name is Derek Fidoro and I'm learning HTML...</p>
+    <h2>
+        <u>My Motivation</u>  
+        <p>1. To be among the best frontend programmers in Nigeria,</p> <p>2. To be a solution for programming issues </p> <p> 3. To make more income for my family</p>
+
+    </h2>
+    
+</body>
+</html>
+
